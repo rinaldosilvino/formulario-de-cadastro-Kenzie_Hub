@@ -38,5 +38,5 @@ yarn start
 
 # Deploy do projeto
 ```
-react-entrega-s2-formulario-de-cadastro-rinaldosilvino.vercel.app
+https://react-entrega-s2-formulario-de-cadastro-rinaldosilvino.vercel.app/
 ```
